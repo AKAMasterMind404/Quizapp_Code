@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838427820514",
+    "project_id": "quiz-application-bc0b1",
+    "storage_bucket": "quiz-application-bc0b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838427820514:android:2313324d537f23f507b9bb",
+        "android_client_info": {
+          "package_name": "com.example.internshipquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838427820514-sekdi28t3pmhpk92f7p2tdm3e37snnf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-g6TaH-OSo6W1zf9kOC4AaWwcdKhX58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838427820514-sekdi28t3pmhpk92f7p2tdm3e37snnf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
